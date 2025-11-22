@@ -3,3 +3,11 @@ body {
     color: whitesmoke;
     font-family: monospace;
 }
+
+a:visited {
+    color: whitesmoke;
+}
+
+a{
+    color: whitesmoke;
+}
